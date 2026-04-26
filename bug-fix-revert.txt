@@ -1,8 +1,8 @@
-﻿curl https://api.github.com/repos/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pulls/47577
+﻿curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7212
 
 {
-  "url": "https://api.github.com/repos/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pulls/47577",
-  "number": 47577,
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/7212",
+  "number": 7212,
   "state": "closed",
   "title": "bug fix: corrected typo",
   "user": {
@@ -11,14 +11,14 @@
   "head": {
     "label": "AvantikaJadhav:bug-fix-typo",
     "repo": {
-      "full_name": "AvantikaJadhav/jbbmo-Introduction-to-Git-and-GitHub",
+      "full_name": "AvantikaJadhav/mcino-Introduction-to-Git-and-GitHub",
       "fork": true
     }
   },
   "base": {
-    "label": "ibm-developer-skills-network:master",
+    "label": "ibm-developer-skills-network:main",
     "repo": {
-      "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub"
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
   }
 }

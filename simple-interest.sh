@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 echo "Enter principal:"
 read p
@@ -9,6 +9,6 @@ read r
 echo "Enter time period:"
 read t
 
-si=
+si=$(( p * r * t / 100 ))
 
-echo "Simple Interest = "
+echo "Simple Interest = $si"

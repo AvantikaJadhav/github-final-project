@@ -1,6 +1,10 @@
-curl https://api.github.com/repos/ibm-developer-skills-network/mc-Introduction-to-Git-and-GitHub/forks
+﻿curl https://api.github.com/repos/AvantikaJadhav/jbbmo-Introduction-to-Git-and-GitHub
+
 {
-  "message": "Not Found",
-  "documentation_url": "https://docs.github.com/rest/repos/forks#list-forks",
-  "status": "404"
+  "name": "jbbmo-Introduction-to-Git-and-GitHub",
+  "full_name": "AvantikaJadhav/jbbmo-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub"
+  }
 }

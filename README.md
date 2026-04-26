@@ -1,23 +1,18 @@
-# e-plantShopping 🌱
-
-A React + Redux based plant shopping cart application.
-
-## Project Features
-
-* Browse indoor, outdoor, and succulent plants
-* Add plants to shopping cart
-* Increase / decrease quantity
-* Remove items from cart
-* Dynamic total price calculation
-
-## Tech Stack
-
-* React
-* Redux Toolkit
-* JavaScript
-* CSS
+\# Simple Interest Calculator
 
 
 
-Bug fix: updated content in bug-fix-typo branch
+This project calculates simple interest using a Bash script.
+
+
+
+\## Formula
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+
+
+\## Files
+
+\- simple-interest.sh
 

@@ -4,19 +4,19 @@
 
 \## Our Pledge
 
-We pledge to create a welcoming environment.
+We create a welcoming environment.
 
 
 
 \## Our Standards
 
-Respectful communication and inclusion.
+Respectful and inclusive behavior.
 
 
 
 \## Enforcement Responsibilities
 
-Maintainers enforce rules.
+Maintainers handle enforcement.
 
 
 

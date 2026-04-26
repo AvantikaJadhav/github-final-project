@@ -1,28 +1,29 @@
-\# Simple Interest Calculator
+﻿# Simple Interest Calculator
 
+A Bash script to calculate simple interest based on user input.
 
+## Description
+This project provides a simple command-line tool to calculate simple interest using principal, rate, and time period.
 
-<<<<<<< HEAD
-A Bash script to calculate simple interest.
+## Formula
+Simple Interest = (Principal x Rate x Time) / 100
 
+## Usage
+1. Clone the repository
+2. Run the script: bash simple-interest.sh
+3. Enter the values when prompted:
+   - Principal amount
+   - Rate of interest
+   - Time period (in years)
 
+## Example
+- Principal = 1000
+- Rate = 5
+- Time = 2
+- Simple Interest = (1000 x 5 x 2) / 100 = 100
 
-Formula:
+## Files
+- simple-interest.sh - Main Bash script for calculation
 
-SI = (P × R × T) / 100
-=======
-This project calculates simple interest using a Bash script.
-
-
-
-\## Formula
-
-Simple Interest = (Principal × Rate × Time) / 100
-
-
-
-\## Files
-
-\- simple-interest.sh
->>>>>>> 8550e3c5e7b336057acc8cea6d0f456bc63278a7
-
+## License
+Apache 2.0

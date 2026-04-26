@@ -1,18 +1,14 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 echo "Enter principal:"
 read p
 
-echo "Enter rate:"
+echo "Enter rate of interest:"
 read r
 
-echo "Enter time:"
+echo "Enter time period:"
 read t
 
-<<<<<<< HEAD
-si=$((p*r*t/100))
-=======
-si=$((p * r * t / 100))
->>>>>>> 8550e3c5e7b336057acc8cea6d0f456bc63278a7
+si=
 
-echo "Simple Interest: $si"
+echo "Simple Interest = "

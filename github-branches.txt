@@ -1,3 +1,4 @@
-bug-fix-typo
+﻿$ git branch -a
+  bug-fix-typo
 * main
-remotes/origin/main
+  remotes/origin/main
